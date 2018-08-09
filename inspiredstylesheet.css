@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+@import url('https://fonts.googleapis.com/css?family=Galada');
+@import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
+
+h1 {
+  color: #f4bcd0;
+  text-shadow: 2px 2px #ff0000;
+  font-size: 45px;
+  font-family: 'Galada', cursive;
+}
+h2 {
+  font-family: 'Glass Antiqua', cursive;
+  font-size: 35px;
+    text-shadow: 2px 2px #15a5a8;
+    color: #003b3d;
+}
+h3 {
+  font-family: 'Elsie Swash Caps', cursive;
+}
+body {
+  background-image: url("Sisaltapete_Heliodor_49101G.jpg" )
+}
+img{
+  width: 15%;
+}
