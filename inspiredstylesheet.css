@@ -2,6 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Galada');
 @import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
 
+body {
+   background-color: #daf2ea;
+  background-image: url("Sisaltapete_Heliodor_49101G.jpg" )
+}
+
 h1 {
   color: #f4bcd0;
   text-shadow: 2px 2px #ff0000;
@@ -16,10 +21,6 @@ h2 {
 }
 h3 {
   font-family: 'Elsie Swash Caps', cursive;
-}
-body {
-   background-color: #daf2ea;
-  background-image: url("Sisaltapete_Heliodor_49101G.jpg" )
 }
 img{
   width: 15%;
