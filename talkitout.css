@@ -1,0 +1,24 @@
+Marquee {
+  color: #f4bcd0;
+  text-shadow: 2px 2px #ff0000;
+  font-size: 50px;
+  font-family: 'Galada', cursive;
+}
+body{
+    background-color: #daf2ea;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #333;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 25px;
+}
+p {
+  font-size: 25px;
+}
+ul {
+ list-style-type: none;
+ }
