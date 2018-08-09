@@ -19,8 +19,10 @@ h2 {
     color: #003b3d;
 }
 h3 {
-  font-size: 25px;
-  font-family: 'Elsie Swash Caps', cursive;
+ font-family: 'Glass Antiqua', cursive;
+  font-size: 35px;
+    text-shadow: 2px 2px #15a5a8;
+    color: #003b3d;
 }
 p {
   font-size: 25px;
