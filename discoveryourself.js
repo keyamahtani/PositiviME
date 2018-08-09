@@ -3,6 +3,7 @@ var myQuestions = [
 		question: "When it comes to cleaning...",
 		answers: {
 			a: 'I always want to clean when I see things out of place.   ',
+			
 			b: 'I only clean when I absolutely need to.',
 
 		},
@@ -12,6 +13,7 @@ var myQuestions = [
 		question: "Do you prefer to stick to tested methods or create your own?",
 		answers: {
 			a: 'Tested methods!   ',
+			
 			b: 'Create my own!',
 		},
 		correctAnswer: 'b'
@@ -20,6 +22,7 @@ var myQuestions = [
 		question: "In group projects, I find myself...",
 		answers: {
 			a: 'Delegating tasks to keep everyone organized.   ',
+			
 			b: 'Focusing on my own tasks.',
 		},
 		correctAnswer: 'b'
@@ -28,6 +31,7 @@ var myQuestions = [
     question: "On vacation...",
     answers: {
       a: 'I follow an itinerary that I created in advance.   ' ,
+	    
       b: 'explore and take it as it goes!',
     },
     correctAnswer: 'b'
@@ -36,6 +40,7 @@ var myQuestions = [
     question: "I would prefer to be a...",
     answers: {
       a: 'Fashion Stylist.   ',
+	    
       b: 'Makeup artist.',
     },
     correctAnswer: 'b'
