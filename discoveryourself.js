@@ -2,7 +2,8 @@ var myQuestions = [
 	{
 		question: "When it comes to cleaning...",
 		answers: {
-			a: 'I always want to clean when I see things out of place.   ',
+			a: 'I always want to clean when I see things out of place.   '
+			,
 			
 			b: 'I only clean when I absolutely need to.',
 
@@ -12,7 +13,8 @@ var myQuestions = [
 	{
 		question: "Do you prefer to stick to tested methods or create your own?",
 		answers: {
-			a: 'Tested methods!   ',
+			a: 'Tested methods!   '
+			,
 			
 			b: 'Create my own!',
 		},
