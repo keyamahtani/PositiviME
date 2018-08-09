@@ -3,8 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
 
 body {
-   background-color: #daf2ea;
-  background-image: url("Sisaltapete_Heliodor_49101G.jpg" )
+  font-family: 'Elsie Swash Caps', cursive;
+  background-color: #daf2ea;
+  background-image: url("Sisaltapete_Heliodor_49101G.jpg" );
+  
 }
 
 h1 {
