@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+@import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
 Marquee {
   color: #f4bcd0;
   text-shadow: 2px 2px #ff0000;
@@ -11,10 +13,14 @@ body{
     color: #333;
 }
 h2 {
-  font-size: 25px;
+  font-family: 'Glass Antiqua', cursive;
+  font-size: 35px;
+    text-shadow: 2px 2px #15a5a8;
+    color: #003b3d;
 }
 h3 {
   font-size: 25px;
+  font-family: 'Elsie Swash Caps', cursive;
 }
 p {
   font-size: 25px;
