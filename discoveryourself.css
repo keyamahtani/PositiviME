@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+@import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
 Marquee {
   color: #f4bcd0;
   text-shadow: 2px 2px #ff0000;
@@ -8,11 +10,12 @@ Marquee {
 body{
     background-color: #daf2ea;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Glass Antiqua', cursive;
     color: #333;
 }
 .question{
     font-weight: 600;
+  font-family: 'Elsie Swash Caps', cursive;
 }
 .answers {
     margin-bottom: 20px;
