@@ -114,12 +114,12 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
 				numCorrect++;
 
 				// color the answers green
-				answerContainers[i].style.color = 'pink';
+				answerContainers[i].style.color = '#ad144a';
 			}
 			// if answer is wrong or blank
 			else{
 				// color the answers red
-				answerContainers[i].style.color = 'pink';
+				answerContainers[i].style.color = '#ad144a';
 			}
 		}
     if(numCorrect>=3){
