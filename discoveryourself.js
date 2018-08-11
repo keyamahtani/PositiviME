@@ -43,7 +43,7 @@ var myQuestions = [
     answers: {
       a: 'Fashion Stylist.   ',
 	    
-      b: 'Makeup artist.',
+      b: 'Makeup Artist.',
     },
     correctAnswer: 'b'
   }
