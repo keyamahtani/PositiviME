@@ -21,7 +21,7 @@ var myQuestions = [
 		correctAnswer: 'b'
 	},
   {
-		question: "In group projects, I find myself...",
+		question: "In group projects, I am usually...",
 		answers: {
 			a: 'Delegating tasks to keep everyone organized.   ',
 			
