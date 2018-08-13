@@ -1,3 +1,10 @@
+body{
+    background-image: url("seamless-repeating-background-6.jpg");
+    font-size: 20px;
+    font-family: 'Elsie Swash Caps', cursive;
+    color: #333;
+}
+
 h1 {
   color: #ad144a;
   text-shadow: 2px 2px #9eedeb;
@@ -13,10 +20,6 @@ ul {
 
 p{
   text-align: center;
-}
-body{
-    background-image: url("seamless-repeating-background-6.jpg");
-    font-size: 20px;
+  font-size: 20px;
     font-family: 'Elsie Swash Caps', cursive;
-    color: #333;
 }
