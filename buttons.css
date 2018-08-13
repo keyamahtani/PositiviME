@@ -1,0 +1,16 @@
+h1 {
+  color: #ad144a;
+  text-shadow: 2px 2px #9eedeb;
+  font-size: 50px;
+  font-family: 'Galada', cursive;
+}
+
+ul {
+  text-align: center;
+
+  list-style: none;
+}
+
+p{
+  text-align: center;
+}
