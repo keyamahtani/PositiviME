@@ -14,3 +14,9 @@ ul {
 p{
   text-align: center;
 }
+body{
+    background-image: url("seamless-repeating-background-6.jpg");
+    font-size: 20px;
+    font-family: 'Elsie Swash Caps', cursive;
+    color: #333;
+}
