@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
 @import url('https://fonts.googleapis.com/css?family=Galada');
 @import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
-
-
 Marquee {
   color: #ad144a;
   text-shadow: 2px 2px #9eedeb;
@@ -11,9 +9,10 @@ Marquee {
 }
 
 body {
-  font-family: 'Elsie Swash Caps', cursive;
-  background-image: url("seamless-repeating-background-6.jpg");
-  font-size: 20px;
+   background-image: url("seamless-repeating-background-6.jpg");
+    font-size: 20px;
+    font-family: 'Elsie Swash Caps', cursive;
+    color: #333;
 }
 
 h2 {
