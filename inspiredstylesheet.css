@@ -2,23 +2,25 @@
 @import url('https://fonts.googleapis.com/css?family=Galada');
 @import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
 
+
+Marquee {
+  color: #ad144a;
+  text-shadow: 2px 2px #9eedeb;
+  font-size: 50px;
+  font-family: 'Galada', cursive;
+}
+
 body {
   font-family: 'Elsie Swash Caps', cursive;
   background-image: url("seamless-repeating-background-6.jpg");
   font-size: 20px;
 }
 
-h1 {
-  color: #ad144a;
-  text-shadow: 2px 2px #9eedeb;
-  font-size: 50px;
-  font-family: 'Galada', cursive;
-}
 h2 {
   font-family: 'Glass Antiqua', cursive;
   font-size: 35px;
-    text-shadow: 2px 2px #15a5a8;
-    color: #003b3d;
+  text-shadow: 2px 2px #15a5a8;
+  color: #003b3d;
 }
 h3 {
   font-family: 'Elsie Swash Caps', cursive;
