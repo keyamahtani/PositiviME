@@ -14,7 +14,12 @@ h1 {
   font-size: 50px;
   font-family: 'Galada', cursive;
 }
-
+h2 {
+    font-family: 'Glass Antiqua', cursive;
+  font-size: 25px;
+    text-shadow: 2px 2px #15a5a8;
+    color: #003b3d;
+}
 ul {
   text-align: center;
 
