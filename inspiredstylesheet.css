@@ -48,4 +48,5 @@ ul {
    list-style-type: none;
  font-family: 'Elsie Swash Caps', cursive;
   font-size: 20px;
+ background-color: rgba(255, 255, 255, 0.5);
 }
