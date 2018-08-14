@@ -1,46 +1,5 @@
+
 @import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
-@import url('https://fonts.googleapis.com/css?family=Galada');
-@import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
-Marquee {
-  color: #ad144a;
-  text-shadow: 2px 2px #9eedeb;
-  font-size: 50px;
-  font-family: 'Galada', cursive;
-}
-body{
-    background-image: url("seamless-repeating-background-6.jpg");
-    font-size: 20px;
-    font-family: 'Elsie Swash Caps', cursive;
-    color: #333;
-}
-h2 {
-  font-family: 'Glass Antiqua', cursive;
-  font-size: 35px;
-    text-shadow: 2px 2px #15a5a8;
-    color: #003b3d;
-}
-h3 {
- font-family: 'Glass Antiqua', cursive;
-  font-size: 25px;
-    text-shadow: 2px 2px #15a5a8;
-    color: #003b3d;
-}
-p {
-  font-size: 25px;
-}
-ul {
- list-style-type: none;
- }
-img{
-  width: 15%;
-}
-  
-
-
-
-
-
-/* @import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
 @import url('https://fonts.googleapis.com/css?family=Galada');
 @import url('https://fonts.googleapis.com/css?family=Glass+Antiqua');
 Marquee {
@@ -90,7 +49,3 @@ ul {
  font-family: 'Elsie Swash Caps', cursive;
   font-size: 25px;
 }
-img{
-  width: 15%;
-}
- */
