@@ -41,9 +41,13 @@ ul {
 
 h1{
   font-size: 25px;
+   text-shadow: 2px 2px #15a5a8;
+    color: #003b3d;
 }
 h2{
   font-size: 25px;
+   text-shadow: 2px 2px #15a5a8;
+    color: #003b3d;
 }
 h3{
   font-size: 20px;
